@@ -27,3 +27,5 @@ careercompass.db
 *.njsproj
 *.sln
 *.sw?
+
+.vercel
